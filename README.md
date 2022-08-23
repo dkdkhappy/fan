@@ -1,5 +1,6 @@
 # 👕덕후의 옷장
-### 내 아이돌이 입은 후드티, 가방 하물며 양말까지 모두 다 손민수 해버렷
+### "내 아이돌이 입은 후드티, 가방 하물며 양말까지 손민수 할 수 있는 거임? 나도?"
+
 ## 💬 기획의도
 ### ⭐ 3년 전에 기획한 내용을 기반으로 조금 더 업그레이드 하여 작업을 진행
 https://ovenapp.io/view/1aB4LKoJwhSGav8Pw70qEBkdhlPP4ckN/
@@ -12,4 +13,6 @@ https://ovenapp.io/view/1aB4LKoJwhSGav8Pw70qEBkdhlPP4ckN/
 
 ## 💬 작업정보
 #### ⭐ 기간 : 2022. 08. 23 ~ 2022. 09. 06
-#### ⭐ 사용 프로그램 : JAVA 기반 Spring Framework, Spring Boot 사용
+#### ⭐ JAVA 기반 Spring Framework, Spring Boot 사용
+#### ⭐ ERD : ERD Cloud 사용 https://www.erdcloud.com/d/HxeYshGpAgSJJbBfm (비공개!)
+#### ⭐ 벤치마킹 : 유니버스(아이돌), 무신사(찜과 목록)
