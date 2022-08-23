@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=덕후의%20옷장&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=덕후의%20옷장&fontSize=60)
 ![image](https://user-images.githubusercontent.com/59155381/186126673-072c9ce2-627e-453b-b879-6d34cc600c3b.png)
 ### "우리 애가 입은 후드티, 가방 하물며 양말까지 손민수 할 수 있는 거임? 나도?"
 #### ❓ 3년 전에 기획한 내용을 기반으로 조금 더 업그레이드 하여 작업을 진행
