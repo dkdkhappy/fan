@@ -20,6 +20,7 @@ https://ovenapp.io/view/1aB4LKoJwhSGav8Pw70qEBkdhlPP4ckN/
 ##### ⭐ 벤치마킹 : 유니버스(아이돌), 무신사(찜과 목록)
 
 #### ❓ 상세 정보
+![덕후의 옷장](https://user-images.githubusercontent.com/59155381/186126346-0abf66ab-dce2-4fc1-9cbb-3a5f3d522609.jpg)
 ##### ⭐ 기본 기능
 ##### : 회원 시스템(로그인, 회원가입 등), 게시판 기능(글/댓글 작성 등)...
 ##### ⭐ 추가 기능
