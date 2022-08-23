@@ -4,6 +4,7 @@
 https://ovenapp.io/view/1aB4LKoJwhSGav8Pw70qEBkdhlPP4ckN/
 
 ## 💬 기획의도
+![image](https://user-images.githubusercontent.com/59155381/186125728-1cacaf5d-46c6-422c-ba79-72d8d432851b.png)
 #### ❓ 덕후의 옷장이란?
 ##### 전세계로 뻗어나가는 K-한류의 열풍 속에서도 단연 인기가 많은 것은 K-Pop이다. 
 ##### 그리고 그 중에서도 아이돌이 착용하는 모든 의류, 잡화는 세계적으로도 큰 이슈가 되는 만큼 
