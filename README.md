@@ -17,7 +17,7 @@ https://ovenapp.io/view/1aB4LKoJwhSGav8Pw70qEBkdhlPP4ckN/
 ##### ⭐ 기간 : 2022. 08. 23 ~ 2022. 09. 06
 ##### ⭐ JAVA 기반 Spring Framework, Spring Boot 사용
 ##### ⭐ ERD : ERD Cloud 사용 https://www.erdcloud.com/d/HxeYshGpAgSJJbBfm (비공개!)
-![덕후의 옷장](https://user-images.githubusercontent.com/59155381/186125220-608e9ea1-ff98-4a06-b120-d05ea777f87c.png)
+![덕후의 옷장](https://user-images.githubusercontent.com/59155381/186137360-fa00f21f-bf43-44bb-bb1d-b5c74aafdf07.png)
 ##### ⭐ 벤치마킹 : 유니버스(아이돌), 무신사(찜과 목록)
 
 #### ❓ 상세 정보
