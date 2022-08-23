@@ -18,7 +18,7 @@ https://ovenapp.io/view/1aB4LKoJwhSGav8Pw70qEBkdhlPP4ckN/
 ##### ⭐ ERD : ERD Cloud 사용 https://www.erdcloud.com/d/HxeYshGpAgSJJbBfm (비공개!)
 ##### ⭐ 벤치마킹 : 유니버스(아이돌), 무신사(찜과 목록)
 
-#### ❓ 상세 정보
+#### ❓ 
 ##### ⭐ 기본 기능
 ##### : 회원 시스템(로그인, 회원가입, 아이디/비밀번호 찾기 등), 게시판 기능(글/댓글 작성) 등
 ##### ⭐ 추가 기능
